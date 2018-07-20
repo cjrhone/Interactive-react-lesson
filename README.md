@@ -12,8 +12,10 @@ _React Interactive Lesson_ will guide users through a bare-bones demonstration o
 The purpose of this project is to make React easier to digest for beginners like myself. Ideally, this project will explore React for it’s strengths by allowing users to input data and learn how that data is processed.  
 
 
-## Diagram ##
+## Overview / Diagram ##
 ![picture alt](ReactTutorialFlowchart_V2.png "React Tutorial Flowchart")  
+
+## NOTE: Data Will NOT be lifting, we are simply going through a list of slides using the arrow keys ##
 
 #### List the absolute minimum features the project requires to meet this purpose or goal: ####
 * Slide-show style React Lesson from beginning to end
